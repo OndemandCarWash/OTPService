@@ -9,7 +9,10 @@ import lombok.Setter;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class OTPSystem {
+	
+
 	private String mobileNumber;
 
 	private String otp;
